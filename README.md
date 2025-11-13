@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+# SISTEMA DE RIEGO AUTOMATIZADO CON ARDUINO
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Arduino es una plataforma de hardware y software libre que permite la implementación de sistemas embebidos para controlar dispositivos electrónicos, lo cual facilita la creación de sistemas inteligentes de bajo costo.
+### El uso de sensores de humedad, temperatura, y controladores electrónicos permite diseñar un sistema de riego automatizado que solo se activa cuando la humedad del suelo es insuficiente, o la temperatura es muy alta. Esto mejora la eficiencia del uso del agua, reduce el esfuerzo físico del agricultor y optimiza la producción agrícola.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
