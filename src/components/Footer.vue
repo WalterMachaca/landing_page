@@ -14,8 +14,8 @@
         <div>
           <h5 class="text-lg font-semibold mb-4">Contacto</h5>
           <div class="space-y-2 text-gray-400">
-            <p>📧 aquabot@example.com</p>
-            <p>📞 +591 70000000</p>
+            <p>📧 waltermachaca884@gmail.com</p>
+            <p>📞 +591 78731634</p>
             <p>📍 Sucre, Bolivia</p>
           </div>
         </div>
