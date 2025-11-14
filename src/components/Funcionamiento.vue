@@ -15,12 +15,15 @@
           </div>
         </div>
         <div class="bg-white p-8 rounded-xl shadow-lg text-center">
-          <div class="w-32 h-32 bg-gradient-to-br from-blue-400 to-green-400 rounded-full mx-auto mb-6"></div>
+          <div class="w-32 h-32 bg-gradient-to-br from-blue-400 to-green-400 rounded-full mx-auto mb-6 flex items-center justify-center">
+            <span class="text-4xl text-white pulse-animation">🤖</span>
+          </div>
           <h4 class="text-xl font-semibold text-gray-800 mb-4">Sistema Arduino</h4>
           <p class="text-gray-600 mb-6">Microcontrolador programado para gestión inteligente del riego</p>
-          <div class="grid grid-cols-2 gap-4 text-sm">
-            <div class="bg-blue-50 p-3 rounded-lg font-semibold text-blue-800">Sensores</div>
-            <div class="bg-green-50 p-3 rounded-lg font-semibold text-green-800">Bomba</div>
+          <div class="grid grid-cols-1 gap-4 text-sm">
+            <div class="bg-blue-50 p-3 rounded-lg font-semibold text-blue-800">Sensor DHT11</div>
+            <div class="bg-green-50 p-3 rounded-lg font-semibold text-green-800">LCD 16x2 I2C</div>
+            <div class="bg-blue-50 p-3 rounded-lg font-semibold text-blue-800">Bomba 5V</div>
           </div>
         </div>
       </div>

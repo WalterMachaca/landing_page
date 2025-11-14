@@ -21,8 +21,7 @@
         </div>
         <div>
           <h5 class="text-lg font-semibold mb-4">Enlaces</h5>
-          <a href="#" class="text-gray-400 hover:text-white block">Documentación</a>
-          <a href="#" class="text-gray-400 hover:text-white block">Soporte Técnico</a>
+          <a href="src/assets/documento.pdf" class="text-gray-400 hover:text-white block" download>Documentación</a>
         </div>
       </div>
       <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
